@@ -1,4 +1,3 @@
-//probabilistic, random, RADI
 const fs = require('fs');
 const PriorityQueue = require('js-priority-queue');
 
