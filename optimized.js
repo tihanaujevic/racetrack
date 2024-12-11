@@ -1,4 +1,3 @@
-//radi brzo i dobro al nije bas najbolji put
 const fs = require('fs');
 const PriorityQueue = require('js-priority-queue');
 
