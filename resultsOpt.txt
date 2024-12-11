@@ -1,0 +1,580 @@
+Results for track_01.txt:
+Iteration 1: Moves: 9, Runtime: 4.20ms
+Iteration 2: Moves: 9, Runtime: 0.71ms
+Iteration 3: Moves: 9, Runtime: 0.64ms
+Iteration 4: Moves: 9, Runtime: 0.77ms
+Iteration 5: Moves: 9, Runtime: 0.83ms
+Iteration 6: Moves: 9, Runtime: 1.65ms
+Iteration 7: Moves: 9, Runtime: 0.78ms
+Iteration 8: Moves: 9, Runtime: 2.35ms
+Iteration 9: Moves: 9, Runtime: 1.00ms
+Iteration 10: Moves: 9, Runtime: 1.08ms
+Iteration 11: Moves: 9, Runtime: 0.40ms
+Iteration 12: Moves: 9, Runtime: 0.33ms
+Iteration 13: Moves: 9, Runtime: 0.47ms
+Iteration 14: Moves: 9, Runtime: 0.73ms
+Iteration 15: Moves: 9, Runtime: 0.75ms
+Iteration 16: Moves: 9, Runtime: 0.32ms
+Iteration 17: Moves: 9, Runtime: 0.39ms
+Iteration 18: Moves: 9, Runtime: 0.80ms
+Iteration 19: Moves: 9, Runtime: 0.28ms
+Iteration 20: Moves: 9, Runtime: 0.43ms
+Iteration 21: Moves: 9, Runtime: 0.26ms
+Iteration 22: Moves: 9, Runtime: 0.30ms
+Iteration 23: Moves: 9, Runtime: 0.42ms
+Iteration 24: Moves: 9, Runtime: 0.30ms
+Iteration 25: Moves: 9, Runtime: 0.41ms
+Iteration 26: Moves: 9, Runtime: 0.29ms
+Iteration 27: Moves: 9, Runtime: 0.37ms
+Iteration 28: Moves: 9, Runtime: 0.87ms
+Iteration 29: Moves: 9, Runtime: 0.53ms
+Iteration 30: Moves: 9, Runtime: 0.64ms
+Iteration 31: Moves: 9, Runtime: 0.70ms
+Iteration 32: Moves: 9, Runtime: 0.57ms
+Iteration 33: Moves: 9, Runtime: 0.63ms
+Iteration 34: Moves: 9, Runtime: 0.38ms
+Iteration 35: Moves: 9, Runtime: 0.27ms
+Iteration 36: Moves: 9, Runtime: 0.39ms
+Iteration 37: Moves: 9, Runtime: 0.39ms
+Iteration 38: Moves: 9, Runtime: 1.73ms
+Iteration 39: Moves: 9, Runtime: 0.22ms
+Iteration 40: Moves: 9, Runtime: 0.20ms
+Iteration 41: Moves: 9, Runtime: 0.20ms
+Iteration 42: Moves: 9, Runtime: 0.21ms
+Iteration 43: Moves: 9, Runtime: 0.20ms
+Iteration 44: Moves: 9, Runtime: 0.44ms
+Iteration 45: Moves: 9, Runtime: 0.20ms
+Iteration 46: Moves: 9, Runtime: 0.20ms
+Iteration 47: Moves: 9, Runtime: 0.19ms
+Iteration 48: Moves: 9, Runtime: 0.19ms
+Iteration 49: Moves: 9, Runtime: 0.20ms
+Iteration 50: Moves: 9, Runtime: 0.43ms
+Best Moves: 9 moves
+Average Moves: 9.00 moves
+Deviation Moves: 0.00 moves
+Best Runtime: 0.19ms
+Average Runtime: 0.62ms
+Deviation Runtime: 0.66ms
+
+Results for track_02.txt:
+Iteration 1: Moves: 14, Runtime: 16.21ms
+Iteration 2: Moves: 14, Runtime: 10.47ms
+Iteration 3: Moves: 14, Runtime: 11.50ms
+Iteration 4: Moves: 14, Runtime: 7.99ms
+Iteration 5: Moves: 14, Runtime: 7.76ms
+Iteration 6: Moves: 14, Runtime: 7.55ms
+Iteration 7: Moves: 14, Runtime: 7.60ms
+Iteration 8: Moves: 14, Runtime: 9.28ms
+Iteration 9: Moves: 14, Runtime: 7.67ms
+Iteration 10: Moves: 14, Runtime: 6.48ms
+Iteration 11: Moves: 14, Runtime: 7.51ms
+Iteration 12: Moves: 14, Runtime: 7.19ms
+Iteration 13: Moves: 14, Runtime: 6.14ms
+Iteration 14: Moves: 14, Runtime: 6.87ms
+Iteration 15: Moves: 14, Runtime: 6.30ms
+Iteration 16: Moves: 14, Runtime: 6.34ms
+Iteration 17: Moves: 14, Runtime: 6.85ms
+Iteration 18: Moves: 14, Runtime: 6.36ms
+Iteration 19: Moves: 14, Runtime: 8.00ms
+Iteration 20: Moves: 14, Runtime: 6.57ms
+Iteration 21: Moves: 14, Runtime: 6.95ms
+Iteration 22: Moves: 14, Runtime: 6.65ms
+Iteration 23: Moves: 14, Runtime: 6.98ms
+Iteration 24: Moves: 14, Runtime: 9.34ms
+Iteration 25: Moves: 14, Runtime: 6.39ms
+Iteration 26: Moves: 14, Runtime: 7.25ms
+Iteration 27: Moves: 14, Runtime: 8.34ms
+Iteration 28: Moves: 14, Runtime: 6.71ms
+Iteration 29: Moves: 14, Runtime: 6.42ms
+Iteration 30: Moves: 14, Runtime: 8.52ms
+Iteration 31: Moves: 14, Runtime: 7.61ms
+Iteration 32: Moves: 14, Runtime: 6.99ms
+Iteration 33: Moves: 14, Runtime: 7.94ms
+Iteration 34: Moves: 14, Runtime: 7.19ms
+Iteration 35: Moves: 14, Runtime: 7.38ms
+Iteration 36: Moves: 14, Runtime: 6.93ms
+Iteration 37: Moves: 14, Runtime: 6.85ms
+Iteration 38: Moves: 14, Runtime: 6.42ms
+Iteration 39: Moves: 14, Runtime: 7.27ms
+Iteration 40: Moves: 14, Runtime: 7.84ms
+Iteration 41: Moves: 14, Runtime: 7.23ms
+Iteration 42: Moves: 14, Runtime: 7.82ms
+Iteration 43: Moves: 14, Runtime: 6.72ms
+Iteration 44: Moves: 14, Runtime: 6.74ms
+Iteration 45: Moves: 14, Runtime: 5.97ms
+Iteration 46: Moves: 14, Runtime: 6.80ms
+Iteration 47: Moves: 14, Runtime: 5.97ms
+Iteration 48: Moves: 14, Runtime: 6.03ms
+Iteration 49: Moves: 14, Runtime: 6.95ms
+Iteration 50: Moves: 14, Runtime: 6.07ms
+Best Moves: 14 moves
+Average Moves: 14.00 moves
+Deviation Moves: 0.00 moves
+Best Runtime: 5.97ms
+Average Runtime: 7.46ms
+Deviation Runtime: 1.65ms
+
+Results for track_03.txt:
+Iteration 1: Moves: 43, Runtime: 1477.08ms
+Iteration 2: Moves: 43, Runtime: 1430.00ms
+Iteration 3: Moves: 43, Runtime: 1444.19ms
+Iteration 4: Moves: 43, Runtime: 1463.03ms
+Iteration 5: Moves: 43, Runtime: 1487.42ms
+Iteration 6: Moves: 43, Runtime: 1471.65ms
+Iteration 7: Moves: 43, Runtime: 1449.35ms
+Iteration 8: Moves: 43, Runtime: 1469.82ms
+Iteration 9: Moves: 43, Runtime: 1482.09ms
+Iteration 10: Moves: 43, Runtime: 1460.79ms
+Iteration 11: Moves: 43, Runtime: 1474.00ms
+Iteration 12: Moves: 43, Runtime: 1468.74ms
+Iteration 13: Moves: 43, Runtime: 1479.52ms
+Iteration 14: Moves: 43, Runtime: 1462.91ms
+Iteration 15: Moves: 43, Runtime: 1486.94ms
+Iteration 16: Moves: 43, Runtime: 1497.82ms
+Iteration 17: Moves: 43, Runtime: 1461.77ms
+Iteration 18: Moves: 43, Runtime: 1475.39ms
+Iteration 19: Moves: 43, Runtime: 1495.90ms
+Iteration 20: Moves: 43, Runtime: 1512.39ms
+Iteration 21: Moves: 43, Runtime: 1479.49ms
+Iteration 22: Moves: 43, Runtime: 1459.69ms
+Iteration 23: Moves: 43, Runtime: 1490.80ms
+Iteration 24: Moves: 43, Runtime: 1501.25ms
+Iteration 25: Moves: 43, Runtime: 1468.91ms
+Iteration 26: Moves: 43, Runtime: 1509.04ms
+Iteration 27: Moves: 43, Runtime: 1478.42ms
+Iteration 28: Moves: 43, Runtime: 1463.60ms
+Iteration 29: Moves: 43, Runtime: 1511.49ms
+Iteration 30: Moves: 43, Runtime: 1499.83ms
+Iteration 31: Moves: 43, Runtime: 1455.98ms
+Iteration 32: Moves: 43, Runtime: 1505.42ms
+Iteration 33: Moves: 43, Runtime: 1494.03ms
+Iteration 34: Moves: 43, Runtime: 1476.21ms
+Iteration 35: Moves: 43, Runtime: 1472.21ms
+Iteration 36: Moves: 43, Runtime: 1493.80ms
+Iteration 37: Moves: 43, Runtime: 1490.24ms
+Iteration 38: Moves: 43, Runtime: 1492.77ms
+Iteration 39: Moves: 43, Runtime: 1469.69ms
+Iteration 40: Moves: 43, Runtime: 1515.99ms
+Iteration 41: Moves: 43, Runtime: 1481.97ms
+Iteration 42: Moves: 43, Runtime: 1493.07ms
+Iteration 43: Moves: 43, Runtime: 1477.82ms
+Iteration 44: Moves: 43, Runtime: 1487.72ms
+Iteration 45: Moves: 43, Runtime: 1469.86ms
+Iteration 46: Moves: 43, Runtime: 1482.67ms
+Iteration 47: Moves: 43, Runtime: 1469.76ms
+Iteration 48: Moves: 43, Runtime: 1572.42ms
+Iteration 49: Moves: 43, Runtime: 1471.43ms
+Iteration 50: Moves: 43, Runtime: 1481.12ms
+Best Moves: 43 moves
+Average Moves: 43.00 moves
+Deviation Moves: 0.00 moves
+Best Runtime: 1430.00ms
+Average Runtime: 1481.35ms
+Deviation Runtime: 21.92ms
+
+Results for track_04.txt:
+Iteration 1: Moves: 50, Runtime: 1625.55ms
+Iteration 2: Moves: 50, Runtime: 1626.67ms
+Iteration 3: Moves: 50, Runtime: 1614.32ms
+Iteration 4: Moves: 50, Runtime: 1638.32ms
+Iteration 5: Moves: 50, Runtime: 1609.22ms
+Iteration 6: Moves: 50, Runtime: 1647.71ms
+Iteration 7: Moves: 50, Runtime: 1614.58ms
+Iteration 8: Moves: 50, Runtime: 1694.14ms
+Iteration 9: Moves: 50, Runtime: 1652.04ms
+Iteration 10: Moves: 50, Runtime: 1614.48ms
+Iteration 11: Moves: 50, Runtime: 1605.46ms
+Iteration 12: Moves: 50, Runtime: 1610.53ms
+Iteration 13: Moves: 50, Runtime: 1616.79ms
+Iteration 14: Moves: 50, Runtime: 1612.89ms
+Iteration 15: Moves: 50, Runtime: 1667.01ms
+Iteration 16: Moves: 50, Runtime: 1618.34ms
+Iteration 17: Moves: 50, Runtime: 1646.32ms
+Iteration 18: Moves: 50, Runtime: 1645.55ms
+Iteration 19: Moves: 50, Runtime: 1670.91ms
+Iteration 20: Moves: 50, Runtime: 1650.68ms
+Iteration 21: Moves: 50, Runtime: 1644.02ms
+Iteration 22: Moves: 50, Runtime: 1630.91ms
+Iteration 23: Moves: 50, Runtime: 1642.70ms
+Iteration 24: Moves: 50, Runtime: 1672.78ms
+Iteration 25: Moves: 50, Runtime: 1607.29ms
+Iteration 26: Moves: 50, Runtime: 1625.22ms
+Iteration 27: Moves: 50, Runtime: 1668.76ms
+Iteration 28: Moves: 50, Runtime: 1884.94ms
+Iteration 29: Moves: 50, Runtime: 1691.08ms
+Iteration 30: Moves: 50, Runtime: 1649.11ms
+Iteration 31: Moves: 50, Runtime: 1654.73ms
+Iteration 32: Moves: 50, Runtime: 1684.95ms
+Iteration 33: Moves: 50, Runtime: 1689.17ms
+Iteration 34: Moves: 50, Runtime: 1656.49ms
+Iteration 35: Moves: 50, Runtime: 1632.83ms
+Iteration 36: Moves: 50, Runtime: 1762.17ms
+Iteration 37: Moves: 50, Runtime: 1655.23ms
+Iteration 38: Moves: 50, Runtime: 1643.53ms
+Iteration 39: Moves: 50, Runtime: 1680.11ms
+Iteration 40: Moves: 50, Runtime: 1739.22ms
+Iteration 41: Moves: 50, Runtime: 1643.82ms
+Iteration 42: Moves: 50, Runtime: 1662.05ms
+Iteration 43: Moves: 50, Runtime: 1717.44ms
+Iteration 44: Moves: 50, Runtime: 1672.05ms
+Iteration 45: Moves: 50, Runtime: 1669.29ms
+Iteration 46: Moves: 50, Runtime: 1657.31ms
+Iteration 47: Moves: 50, Runtime: 1666.30ms
+Iteration 48: Moves: 50, Runtime: 1783.48ms
+Iteration 49: Moves: 50, Runtime: 1666.80ms
+Iteration 50: Moves: 50, Runtime: 1878.83ms
+Best Moves: 50 moves
+Average Moves: 50.00 moves
+Deviation Moves: 0.00 moves
+Best Runtime: 1605.46ms
+Average Runtime: 1664.28ms
+Deviation Runtime: 57.95ms
+
+Results for track_05.txt:
+Iteration 1: Moves: 103, Runtime: 1552.00ms
+Iteration 2: Moves: 103, Runtime: 1565.53ms
+Iteration 3: Moves: 103, Runtime: 1576.92ms
+Iteration 4: Moves: 103, Runtime: 1582.20ms
+Iteration 5: Moves: 103, Runtime: 1577.21ms
+Iteration 6: Moves: 103, Runtime: 1580.76ms
+Iteration 7: Moves: 103, Runtime: 1599.35ms
+Iteration 8: Moves: 103, Runtime: 1570.22ms
+Iteration 9: Moves: 103, Runtime: 1570.92ms
+Iteration 10: Moves: 103, Runtime: 1665.56ms
+Iteration 11: Moves: 103, Runtime: 1583.57ms
+Iteration 12: Moves: 103, Runtime: 1566.33ms
+Iteration 13: Moves: 103, Runtime: 1610.86ms
+Iteration 14: Moves: 103, Runtime: 1592.94ms
+Iteration 15: Moves: 103, Runtime: 1596.36ms
+Iteration 16: Moves: 103, Runtime: 1578.01ms
+Iteration 17: Moves: 103, Runtime: 1577.61ms
+Iteration 18: Moves: 103, Runtime: 1595.40ms
+Iteration 19: Moves: 103, Runtime: 1582.81ms
+Iteration 20: Moves: 103, Runtime: 1594.50ms
+Iteration 21: Moves: 103, Runtime: 1601.36ms
+Iteration 22: Moves: 103, Runtime: 1602.81ms
+Iteration 23: Moves: 103, Runtime: 1612.38ms
+Iteration 24: Moves: 103, Runtime: 1602.19ms
+Iteration 25: Moves: 103, Runtime: 1622.85ms
+Iteration 26: Moves: 103, Runtime: 1599.88ms
+Iteration 27: Moves: 103, Runtime: 1590.00ms
+Iteration 28: Moves: 103, Runtime: 1591.94ms
+Iteration 29: Moves: 103, Runtime: 1599.56ms
+Iteration 30: Moves: 103, Runtime: 1636.67ms
+Iteration 31: Moves: 103, Runtime: 1628.73ms
+Iteration 32: Moves: 103, Runtime: 1584.94ms
+Iteration 33: Moves: 103, Runtime: 1620.94ms
+Iteration 34: Moves: 103, Runtime: 1650.09ms
+Iteration 35: Moves: 103, Runtime: 1595.48ms
+Iteration 36: Moves: 103, Runtime: 1602.23ms
+Iteration 37: Moves: 103, Runtime: 1635.21ms
+Iteration 38: Moves: 103, Runtime: 1614.39ms
+Iteration 39: Moves: 103, Runtime: 1616.86ms
+Iteration 40: Moves: 103, Runtime: 1633.82ms
+Iteration 41: Moves: 103, Runtime: 1597.46ms
+Iteration 42: Moves: 103, Runtime: 1636.31ms
+Iteration 43: Moves: 103, Runtime: 1600.11ms
+Iteration 44: Moves: 103, Runtime: 1609.61ms
+Iteration 45: Moves: 103, Runtime: 1670.43ms
+Iteration 46: Moves: 103, Runtime: 1604.36ms
+Iteration 47: Moves: 103, Runtime: 1590.99ms
+Iteration 48: Moves: 103, Runtime: 1586.65ms
+Iteration 49: Moves: 103, Runtime: 1569.38ms
+Iteration 50: Moves: 103, Runtime: 1612.72ms
+Best Moves: 103 moves
+Average Moves: 103.00 moves
+Deviation Moves: 0.00 moves
+Best Runtime: 1552.00ms
+Average Runtime: 1600.79ms
+Deviation Runtime: 24.90ms
+
+Results for track_06.txt:
+Iteration 1: Moves: 99, Runtime: 1395.41ms
+Iteration 2: Moves: 99, Runtime: 1342.38ms
+Iteration 3: Moves: 99, Runtime: 1659.80ms
+Iteration 4: Moves: 99, Runtime: 1334.79ms
+Iteration 5: Moves: 99, Runtime: 1346.63ms
+Iteration 6: Moves: 99, Runtime: 1329.92ms
+Iteration 7: Moves: 99, Runtime: 1332.54ms
+Iteration 8: Moves: 99, Runtime: 1326.82ms
+Iteration 9: Moves: 99, Runtime: 1322.73ms
+Iteration 10: Moves: 99, Runtime: 1353.00ms
+Iteration 11: Moves: 99, Runtime: 1330.52ms
+Iteration 12: Moves: 99, Runtime: 1339.78ms
+Iteration 13: Moves: 99, Runtime: 1322.00ms
+Iteration 14: Moves: 99, Runtime: 1322.79ms
+Iteration 15: Moves: 99, Runtime: 1327.00ms
+Iteration 16: Moves: 99, Runtime: 1369.54ms
+Iteration 17: Moves: 99, Runtime: 1383.25ms
+Iteration 18: Moves: 99, Runtime: 1334.58ms
+Iteration 19: Moves: 99, Runtime: 1330.11ms
+Iteration 20: Moves: 99, Runtime: 1351.25ms
+Iteration 21: Moves: 99, Runtime: 1337.19ms
+Iteration 22: Moves: 99, Runtime: 1343.06ms
+Iteration 23: Moves: 99, Runtime: 1322.65ms
+Iteration 24: Moves: 99, Runtime: 1335.05ms
+Iteration 25: Moves: 99, Runtime: 1343.43ms
+Iteration 26: Moves: 99, Runtime: 1340.83ms
+Iteration 27: Moves: 99, Runtime: 1347.12ms
+Iteration 28: Moves: 99, Runtime: 1327.51ms
+Iteration 29: Moves: 99, Runtime: 1346.97ms
+Iteration 30: Moves: 99, Runtime: 1343.89ms
+Iteration 31: Moves: 99, Runtime: 1359.92ms
+Iteration 32: Moves: 99, Runtime: 1327.94ms
+Iteration 33: Moves: 99, Runtime: 1443.09ms
+Iteration 34: Moves: 99, Runtime: 1342.10ms
+Iteration 35: Moves: 99, Runtime: 1358.76ms
+Iteration 36: Moves: 99, Runtime: 1323.64ms
+Iteration 37: Moves: 99, Runtime: 1319.81ms
+Iteration 38: Moves: 99, Runtime: 1364.74ms
+Iteration 39: Moves: 99, Runtime: 1349.42ms
+Iteration 40: Moves: 99, Runtime: 1317.28ms
+Iteration 41: Moves: 99, Runtime: 1340.73ms
+Iteration 42: Moves: 99, Runtime: 1378.48ms
+Iteration 43: Moves: 99, Runtime: 1328.43ms
+Iteration 44: Moves: 99, Runtime: 1318.84ms
+Iteration 45: Moves: 99, Runtime: 1376.59ms
+Iteration 46: Moves: 99, Runtime: 1352.65ms
+Iteration 47: Moves: 99, Runtime: 1319.69ms
+Iteration 48: Moves: 99, Runtime: 1332.37ms
+Iteration 49: Moves: 99, Runtime: 1350.06ms
+Iteration 50: Moves: 99, Runtime: 1469.29ms
+Best Moves: 99 moves
+Average Moves: 99.00 moves
+Deviation Moves: 0.00 moves
+Best Runtime: 1317.28ms
+Average Runtime: 1352.33ms
+Deviation Runtime: 52.42ms
+
+Results for track_07.txt:
+Iteration 1: Moves: 35, Runtime: 2649.49ms
+Iteration 2: Moves: 35, Runtime: 2835.90ms
+Iteration 3: Moves: 35, Runtime: 2648.82ms
+Iteration 4: Moves: 35, Runtime: 2621.70ms
+Iteration 5: Moves: 35, Runtime: 2679.55ms
+Iteration 6: Moves: 35, Runtime: 2652.25ms
+Iteration 7: Moves: 35, Runtime: 2637.83ms
+Iteration 8: Moves: 35, Runtime: 2678.87ms
+Iteration 9: Moves: 35, Runtime: 2625.08ms
+Iteration 10: Moves: 35, Runtime: 2668.04ms
+Iteration 11: Moves: 35, Runtime: 2692.05ms
+Iteration 12: Moves: 35, Runtime: 2650.67ms
+Iteration 13: Moves: 35, Runtime: 2682.12ms
+Iteration 14: Moves: 35, Runtime: 2632.55ms
+Iteration 15: Moves: 35, Runtime: 2642.43ms
+Iteration 16: Moves: 35, Runtime: 2682.16ms
+Iteration 17: Moves: 35, Runtime: 2926.16ms
+Iteration 18: Moves: 35, Runtime: 2640.86ms
+Iteration 19: Moves: 35, Runtime: 2658.99ms
+Iteration 20: Moves: 35, Runtime: 2660.38ms
+Iteration 21: Moves: 35, Runtime: 2917.20ms
+Iteration 22: Moves: 35, Runtime: 2631.92ms
+Iteration 23: Moves: 35, Runtime: 2650.42ms
+Iteration 24: Moves: 35, Runtime: 2647.31ms
+Iteration 25: Moves: 35, Runtime: 2881.29ms
+Iteration 26: Moves: 35, Runtime: 2613.24ms
+Iteration 27: Moves: 35, Runtime: 2613.40ms
+Iteration 28: Moves: 35, Runtime: 2631.86ms
+Iteration 29: Moves: 35, Runtime: 2619.82ms
+Iteration 30: Moves: 35, Runtime: 2725.80ms
+Iteration 31: Moves: 35, Runtime: 2841.56ms
+Iteration 32: Moves: 35, Runtime: 2797.12ms
+Iteration 33: Moves: 35, Runtime: 2641.87ms
+Iteration 34: Moves: 35, Runtime: 2669.05ms
+Iteration 35: Moves: 35, Runtime: 2660.18ms
+Iteration 36: Moves: 35, Runtime: 2661.90ms
+Iteration 37: Moves: 35, Runtime: 2650.10ms
+Iteration 38: Moves: 35, Runtime: 2680.06ms
+Iteration 39: Moves: 35, Runtime: 2892.70ms
+Iteration 40: Moves: 35, Runtime: 2651.27ms
+Iteration 41: Moves: 35, Runtime: 2658.93ms
+Iteration 42: Moves: 35, Runtime: 2718.06ms
+Iteration 43: Moves: 35, Runtime: 2727.10ms
+Iteration 44: Moves: 35, Runtime: 2618.25ms
+Iteration 45: Moves: 35, Runtime: 2662.82ms
+Iteration 46: Moves: 35, Runtime: 2711.37ms
+Iteration 47: Moves: 35, Runtime: 2668.51ms
+Iteration 48: Moves: 35, Runtime: 2644.10ms
+Iteration 49: Moves: 35, Runtime: 2676.72ms
+Iteration 50: Moves: 35, Runtime: 2658.22ms
+Best Moves: 35 moves
+Average Moves: 35.00 moves
+Deviation Moves: 0.00 moves
+Best Runtime: 2613.24ms
+Average Runtime: 2687.76ms
+Deviation Runtime: 79.76ms
+
+Results for track_08.txt:
+Iteration 1: Moves: 43, Runtime: 2633.46ms
+Iteration 2: Moves: 43, Runtime: 2680.76ms
+Iteration 3: Moves: 43, Runtime: 2666.04ms
+Iteration 4: Moves: 43, Runtime: 2751.13ms
+Iteration 5: Moves: 43, Runtime: 2893.22ms
+Iteration 6: Moves: 43, Runtime: 2676.06ms
+Iteration 7: Moves: 43, Runtime: 2657.27ms
+Iteration 8: Moves: 43, Runtime: 2663.29ms
+Iteration 9: Moves: 43, Runtime: 2652.71ms
+Iteration 10: Moves: 43, Runtime: 2695.89ms
+Iteration 11: Moves: 43, Runtime: 2713.81ms
+Iteration 12: Moves: 43, Runtime: 2683.71ms
+Iteration 13: Moves: 43, Runtime: 2795.56ms
+Iteration 14: Moves: 43, Runtime: 2649.98ms
+Iteration 15: Moves: 43, Runtime: 2744.57ms
+Iteration 16: Moves: 43, Runtime: 2633.27ms
+Iteration 17: Moves: 43, Runtime: 2658.05ms
+Iteration 18: Moves: 43, Runtime: 2724.51ms
+Iteration 19: Moves: 43, Runtime: 2726.55ms
+Iteration 20: Moves: 43, Runtime: 2686.34ms
+Iteration 21: Moves: 43, Runtime: 2660.63ms
+Iteration 22: Moves: 43, Runtime: 2678.47ms
+Iteration 23: Moves: 43, Runtime: 2665.27ms
+Iteration 24: Moves: 43, Runtime: 2826.68ms
+Iteration 25: Moves: 43, Runtime: 2963.52ms
+Iteration 26: Moves: 43, Runtime: 2672.85ms
+Iteration 27: Moves: 43, Runtime: 2944.21ms
+Iteration 28: Moves: 43, Runtime: 2689.88ms
+Iteration 29: Moves: 43, Runtime: 2646.80ms
+Iteration 30: Moves: 43, Runtime: 2698.43ms
+Iteration 31: Moves: 43, Runtime: 2649.92ms
+Iteration 32: Moves: 43, Runtime: 2704.51ms
+Iteration 33: Moves: 43, Runtime: 2750.19ms
+Iteration 34: Moves: 43, Runtime: 2662.42ms
+Iteration 35: Moves: 43, Runtime: 2919.62ms
+Iteration 36: Moves: 43, Runtime: 2646.36ms
+Iteration 37: Moves: 43, Runtime: 2672.99ms
+Iteration 38: Moves: 43, Runtime: 3157.83ms
+Iteration 39: Moves: 43, Runtime: 2683.25ms
+Iteration 40: Moves: 43, Runtime: 2685.76ms
+Iteration 41: Moves: 43, Runtime: 2908.32ms
+Iteration 42: Moves: 43, Runtime: 2729.20ms
+Iteration 43: Moves: 43, Runtime: 2672.90ms
+Iteration 44: Moves: 43, Runtime: 2658.57ms
+Iteration 45: Moves: 43, Runtime: 2652.08ms
+Iteration 46: Moves: 43, Runtime: 2886.49ms
+Iteration 47: Moves: 43, Runtime: 2655.95ms
+Iteration 48: Moves: 43, Runtime: 2859.19ms
+Iteration 49: Moves: 43, Runtime: 2805.05ms
+Iteration 50: Moves: 43, Runtime: 2699.31ms
+Best Moves: 43 moves
+Average Moves: 43.00 moves
+Deviation Moves: 0.00 moves
+Best Runtime: 2633.27ms
+Average Runtime: 2729.86ms
+Deviation Runtime: 106.92ms
+
+Results for track_09.txt:
+Iteration 1: Moves: 39, Runtime: 2758.79ms
+Iteration 2: Moves: 39, Runtime: 2844.23ms
+Iteration 3: Moves: 39, Runtime: 3156.08ms
+Iteration 4: Moves: 39, Runtime: 2772.75ms
+Iteration 5: Moves: 39, Runtime: 2989.36ms
+Iteration 6: Moves: 39, Runtime: 2785.71ms
+Iteration 7: Moves: 39, Runtime: 3062.94ms
+Iteration 8: Moves: 39, Runtime: 2738.55ms
+Iteration 9: Moves: 39, Runtime: 3046.63ms
+Iteration 10: Moves: 39, Runtime: 2766.44ms
+Iteration 11: Moves: 39, Runtime: 3112.70ms
+Iteration 12: Moves: 39, Runtime: 2737.07ms
+Iteration 13: Moves: 39, Runtime: 2750.99ms
+Iteration 14: Moves: 39, Runtime: 2748.07ms
+Iteration 15: Moves: 39, Runtime: 2757.80ms
+Iteration 16: Moves: 39, Runtime: 2727.46ms
+Iteration 17: Moves: 39, Runtime: 2740.11ms
+Iteration 18: Moves: 39, Runtime: 2703.20ms
+Iteration 19: Moves: 39, Runtime: 2780.18ms
+Iteration 20: Moves: 39, Runtime: 3087.18ms
+Iteration 21: Moves: 39, Runtime: 2766.63ms
+Iteration 22: Moves: 39, Runtime: 3022.21ms
+Iteration 23: Moves: 39, Runtime: 2794.23ms
+Iteration 24: Moves: 39, Runtime: 2837.06ms
+Iteration 25: Moves: 39, Runtime: 2736.69ms
+Iteration 26: Moves: 39, Runtime: 2813.79ms
+Iteration 27: Moves: 39, Runtime: 2714.96ms
+Iteration 28: Moves: 39, Runtime: 2717.35ms
+Iteration 29: Moves: 39, Runtime: 2741.06ms
+Iteration 30: Moves: 39, Runtime: 3083.79ms
+Iteration 31: Moves: 39, Runtime: 2737.03ms
+Iteration 32: Moves: 39, Runtime: 2794.61ms
+Iteration 33: Moves: 39, Runtime: 2737.86ms
+Iteration 34: Moves: 39, Runtime: 2746.02ms
+Iteration 35: Moves: 39, Runtime: 2736.34ms
+Iteration 36: Moves: 39, Runtime: 3108.36ms
+Iteration 37: Moves: 39, Runtime: 2731.99ms
+Iteration 38: Moves: 39, Runtime: 2845.71ms
+Iteration 39: Moves: 39, Runtime: 2743.74ms
+Iteration 40: Moves: 39, Runtime: 2721.37ms
+Iteration 41: Moves: 39, Runtime: 2740.95ms
+Iteration 42: Moves: 39, Runtime: 2745.06ms
+Iteration 43: Moves: 39, Runtime: 3110.37ms
+Iteration 44: Moves: 39, Runtime: 2724.75ms
+Iteration 45: Moves: 39, Runtime: 3102.37ms
+Iteration 46: Moves: 39, Runtime: 2726.07ms
+Iteration 47: Moves: 39, Runtime: 3178.91ms
+Iteration 48: Moves: 39, Runtime: 2755.18ms
+Iteration 49: Moves: 39, Runtime: 2736.23ms
+Iteration 50: Moves: 39, Runtime: 2840.48ms
+Best Moves: 39 moves
+Average Moves: 39.00 moves
+Deviation Moves: 0.00 moves
+Best Runtime: 2703.20ms
+Average Runtime: 2837.15ms
+Deviation Runtime: 146.94ms
+
+Results for track_10.txt:
+Iteration 1: Moves: 35, Runtime: 2287.47ms
+Iteration 2: Moves: 35, Runtime: 2084.70ms
+Iteration 3: Moves: 35, Runtime: 2090.85ms
+Iteration 4: Moves: 35, Runtime: 2131.24ms
+Iteration 5: Moves: 35, Runtime: 2116.51ms
+Iteration 6: Moves: 35, Runtime: 2111.77ms
+Iteration 7: Moves: 35, Runtime: 2121.45ms
+Iteration 8: Moves: 35, Runtime: 2139.57ms
+Iteration 9: Moves: 35, Runtime: 2136.89ms
+Iteration 10: Moves: 35, Runtime: 2112.46ms
+Iteration 11: Moves: 35, Runtime: 2092.89ms
+Iteration 12: Moves: 35, Runtime: 2085.35ms
+Iteration 13: Moves: 35, Runtime: 2100.89ms
+Iteration 14: Moves: 35, Runtime: 2076.94ms
+Iteration 15: Moves: 35, Runtime: 2078.83ms
+Iteration 16: Moves: 35, Runtime: 2098.20ms
+Iteration 17: Moves: 35, Runtime: 2086.90ms
+Iteration 18: Moves: 35, Runtime: 2243.86ms
+Iteration 19: Moves: 35, Runtime: 2244.47ms
+Iteration 20: Moves: 35, Runtime: 2114.43ms
+Iteration 21: Moves: 35, Runtime: 2079.52ms
+Iteration 22: Moves: 35, Runtime: 2184.66ms
+Iteration 23: Moves: 35, Runtime: 2102.75ms
+Iteration 24: Moves: 35, Runtime: 2315.53ms
+Iteration 25: Moves: 35, Runtime: 2168.09ms
+Iteration 26: Moves: 35, Runtime: 2163.17ms
+Iteration 27: Moves: 35, Runtime: 2102.44ms
+Iteration 28: Moves: 35, Runtime: 2177.36ms
+Iteration 29: Moves: 35, Runtime: 2165.52ms
+Iteration 30: Moves: 35, Runtime: 2122.42ms
+Iteration 31: Moves: 35, Runtime: 2057.09ms
+Iteration 32: Moves: 35, Runtime: 2111.54ms
+Iteration 33: Moves: 35, Runtime: 2108.35ms
+Iteration 34: Moves: 35, Runtime: 2106.16ms
+Iteration 35: Moves: 35, Runtime: 2123.50ms
+Iteration 36: Moves: 35, Runtime: 2104.67ms
+Iteration 37: Moves: 35, Runtime: 2109.18ms
+Iteration 38: Moves: 35, Runtime: 2155.33ms
+Iteration 39: Moves: 35, Runtime: 2120.73ms
+Iteration 40: Moves: 35, Runtime: 2116.58ms
+Iteration 41: Moves: 35, Runtime: 2080.44ms
+Iteration 42: Moves: 35, Runtime: 2097.91ms
+Iteration 43: Moves: 35, Runtime: 2177.39ms
+Iteration 44: Moves: 35, Runtime: 2096.14ms
+Iteration 45: Moves: 35, Runtime: 2097.78ms
+Iteration 46: Moves: 35, Runtime: 2098.34ms
+Iteration 47: Moves: 35, Runtime: 2127.60ms
+Iteration 48: Moves: 35, Runtime: 2110.74ms
+Iteration 49: Moves: 35, Runtime: 2120.53ms
+Iteration 50: Moves: 35, Runtime: 2100.86ms
+Best Moves: 35 moves
+Average Moves: 35.00 moves
+Deviation Moves: 0.00 moves
+Best Runtime: 2057.09ms
+Average Runtime: 2127.16ms
+Deviation Runtime: 51.84ms
+
